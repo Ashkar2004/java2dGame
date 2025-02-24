@@ -1,6 +1,1 @@
-NOM DES ELEVES QUI ONT FAIENT CE PROJET:
- EL ASHKAR MOHAMAD
- IACOB ANDREI RADU
-ILEANA BARBIERE GENEVIEVE
-
-TOUS DANS LE GROUPE 1220FA II SG-2
+This is a 2D game developed in Java, inspired by Reyisnow on YouTube. While the core concept and gameplay mechanics are based on his work, I have added my own creative touch by modifying and adapting the game to fit my unique story and vision. All visual assets, including character images, maps, and other elements, are sourced from Reyisnow's original work and were not created by me. This project highlights my ability to personalize and enhance existing ideas while respecting the original artistic assets.
